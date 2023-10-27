@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    color:#03114b;
+    padding:10px 10px;
+    border:1px solid #03114b;
+    border-radius: 7px;
+    font-size: 30px;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+.container{
+    text-align: center;
+    text-transform: capitalize;
+}
